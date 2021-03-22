@@ -4,4 +4,5 @@
 ### About me
 
 :man_student: I'm a Computer Engineering graduated at Universidade Federal de Pelotas (UFPel).
+
 :eyes: I'm interested in frontend and backend development and my studies are focused on web development at this moment.
