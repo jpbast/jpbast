@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @jpbast
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm	João Pedro! :man_technologist:
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jpbast)](https://github.com/jpbast) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpbast)](https://www.linkedin.com/in/jpbast)
+   
+### About me
 
-testando
-
-<!---
-jpbast/jpbast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:man_student: I'm a Computer Engineering graduated at Universidade Federal de Pelotas (UFPel).
+:eyes: I'm interested in frontend and backend development and my studies are focused on web development at this moment.
