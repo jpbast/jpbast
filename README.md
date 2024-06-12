@@ -3,7 +3,7 @@
    
 ### About me
 
-:man_student: Bachelor in Computer Engineering graduated at Universidade Federal de Pelotas (UFPel).
+:man_student: Bachelor in Computer Engineering graduated at Universidade Federal de Pelotas (UFPel)
 
 :eyes: Experienced in frontend and mobile development using TypeScript, React, Next.js and React Native
 
