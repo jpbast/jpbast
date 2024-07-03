@@ -7,4 +7,4 @@
 
 :eyes: Software Engineer experienced in frontend and mobile development using mainly TypeScript, React, Next.js and React Native
 
-🌐 You can visit my personal website [here](https://jpbast.vercel.app)!
+🌐 You can visit my portfolio [here](https://jpbast.vercel.app)!
